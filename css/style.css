@@ -1,0 +1,26 @@
+.navbar a img {
+  height: 53px;
+}
+
+.feature-lenna-section{
+  padding-top: unset;
+  margin-top: 55px;
+  margin-bottom: 40px;
+}
+
+.feature-lenna-section img{
+  max-width: 40px;
+}
+
+.card-deck{
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-deck img{
+  align-self: center;
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
